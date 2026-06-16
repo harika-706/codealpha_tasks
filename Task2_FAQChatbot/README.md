@@ -50,7 +50,6 @@ CodeAlpha Artificial Intelligence Internship
 
 https://harika-706.github.io/codealpha_tasks/Task2_FAQChatbot/
 
-## Screenshots
 
 <h2>Screenshots</h2>
 
