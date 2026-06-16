@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Cyber Awareness Assistant</title>
+
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div id="loading">
+    Loading Cyber Knowledge Base...
+</div>
+
+<div id="app">
+
+    <!-- Header -->
+    <div id="header">
+
+        <div class="avatar">
+            🛡️
+        </div>
+
+        <div class="info">
+            <div class="name">
+                Cyber Awareness Assistant
+            </div>
+
+            <div class="status">
+                ● Online
+            </div>
+        </div>
+
+        <div class="header-actions">
+
+            <button id="historyBtn" title="History">
+                📜
+            </button>
+
+            <button id="themeBtn" title="Theme">
+                🌙
+            </button>
+
+            <button id="clearBtn" title="Clear Chat">
+                🗑️
+            </button>
+
+        </div>
+
+    </div>
+
+    <!-- Messages -->
+    <div id="msgs"></div>
+
+    <!-- Suggestions -->
+    <div id="suggestions"></div>
+
+    <!-- Input -->
+    <div id="inputrow">
+
+        <input
+            type="text"
+            id="qInput"
+            placeholder="Ask me anything..."
+            autocomplete="off"
+        >
+
+        <button id="voiceBtn">
+            🎤
+        </button>
+
+        <button id="sendBtn">
+    ➤
+</button>
+
+    </div>
+
+</div>
+
+<!-- History Modal -->
+<div id="historyModal">
+
+    <div id="historyBox">
+
+        <h2>📜 Chat History</h2>
+
+        <div id="historyContent"></div>
+
+        <button id="closeHistory">
+            Close
+        </button>
+
+    </div>
+
+</div>
+
+<div id="chatViewModal">
+
+    <div id="chatViewBox">
+
+        <h3>Chat Preview</h3>
+
+        <div id="chatViewContent"></div>
+
+        <button id="closeChatView">
+            Close
+        </button>
+
+    </div>
+
+</div>
+
+<script src="https://unpkg.com/compromise"></script>
+<script type="module" src="js/app.js"></script>
+
+</body>
+</html>
