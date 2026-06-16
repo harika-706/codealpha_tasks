@@ -41,7 +41,7 @@ CodeAlpha Artificial Intelligence Internship
 
 ## 🔗 Live Demo
 
-https://harika-706.github.io/codealpha_tasks/
+https://harika-706.github.io/codealpha_tasks/Task1_LanguageTranslationTool/
 
 
 <h2>Screenshots</h2>
