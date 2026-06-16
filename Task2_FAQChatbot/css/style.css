@@ -13,7 +13,6 @@ body{
     min-height:100vh;
 }
 
-/* Loading */
 
 #loading{
     position:fixed;
@@ -27,7 +26,6 @@ body{
     z-index:9999;
 }
 
-/* App */
 
 #app{
     width:400px;
@@ -46,7 +44,6 @@ body{
     flex-direction:column;
 }
 
-/* Header */
 
 #header{
     background:#2563eb;
@@ -116,7 +113,6 @@ body{
     transform:scale(1.05);
 }
 
-/* Messages */
 
 #msgs{
     flex:1;
@@ -184,7 +180,6 @@ body{
     color:#94a3b8;
 }
 
-/* Confidence */
 
 .confidence{
     margin-top:4px;
@@ -211,7 +206,6 @@ body{
     color:#dc2626;
 }
 
-/* Suggestions */
 
 #suggestions{
     display:flex;
@@ -242,7 +236,6 @@ body{
     background:#e2e8f0;
 }
 
-/* Input */
 
 #inputrow{
     display:flex;
@@ -339,7 +332,6 @@ body{
     }
 }
 
-/* History Modal */
 
 #historyModal{
     display:none;
@@ -484,7 +476,6 @@ body.dark #chatViewBox{
     color:white;
 }
 
-/* Dark Mode */
 
 body.dark{
     background:#020617;
