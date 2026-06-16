@@ -60,7 +60,7 @@ https://harika-706.github.io/codealpha_tasks/Task2_FAQChatbot/
 </p>
 
 <p align="center">
-  <img src="screenshots/IncidentResponse.png" alt="Incident Response" width="350"/>
+  <img src="screenshots/Incident Response.png" alt="Incident Response" width="350"/>
   <img src="screenshots/DarkMode.png" alt="Chat History" width="350"/>
 </p>
 
