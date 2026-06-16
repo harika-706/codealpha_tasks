@@ -69,9 +69,6 @@ document.body.classList.contains(
 
 };
 
-/* =========================
-   SUGGESTION CHIPS
-========================= */
 
 const chips = [
 "What is phishing?",
@@ -168,7 +165,7 @@ Ask me any cybersecurity question.`
 }
 
 /* =========================
-   CHAT HISTORY + WELCOME
+   CHAT HISTORY 
 ========================= */
 
 document.getElementById("msgs").innerHTML = "";
