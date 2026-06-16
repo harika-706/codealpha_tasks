@@ -43,7 +43,6 @@ CodeAlpha Artificial Intelligence Internship
 
 https://harika-706.github.io/codealpha_tasks/
 
-<h2>Screenshots</h2>
 
 <h2>Screenshots</h2>
 
