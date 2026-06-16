@@ -45,12 +45,14 @@ https://harika-706.github.io/codealpha_tasks/
 
 <h2>Screenshots</h2>
 
+<h2>Screenshots</h2>
+
 <p align="center">
-  <img src="Task1_LanguageTranslationTool/screenshots/homepage.png" alt="Home Page" width="350"/>
-  <img src="Task1_LanguageTranslationTool/screenshots/translation.png" alt="Translation" width="350"/>
+  <img src="screenshots/homepage.png" alt="Home Page" width="350"/>
+  <img src="screenshots/translation.png" alt="Translation" width="350"/>
 </p>
 
 <p align="center">
-  <img src="Task1_LanguageTranslationTool/screenshots/transliteration.png" alt="Transliteration" width="350"/>
-  <img src="Task1_LanguageTranslationTool/screenshots/speech.png" alt="Speech Feature" width="350"/>
+  <img src="screenshots/transliteration.png" alt="Transliteration" width="350"/>
+  <img src="screenshots/speech.png" alt="Speech Feature" width="350"/>
 </p>
